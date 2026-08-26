@@ -1,0 +1,4 @@
+interface:
+  display_name: "Replit Operator"
+  short_description: "Run verified Replit browser workflows."
+  default_prompt: "Use the Replit Operator skill to complete a verified Replit workflow."
